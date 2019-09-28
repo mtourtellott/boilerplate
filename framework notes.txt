@@ -1,0 +1,25 @@
+framework
+
+git - setup
+CSS - sass + reset
+Autoprefixer
+what for javascript?
+ jquery
+ shims? Polyfils?
+
+ SVG graphics
+ database + gui
+
+ place for CMS site generator
+ template languages
+
+ automation
+ 	python
+ 	bash scripting
+ 	apple script
+
+
+ DESIGN
+ 	creative cloud
+ 	Adobe XD?
+ 	
